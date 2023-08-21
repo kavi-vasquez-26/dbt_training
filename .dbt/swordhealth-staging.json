@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "swordhealth-staging",
-  "private_key_id": "c0f563be04a9a02d5538cd90df490bcc338a35be",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuW2h9BEFrd98C\nUyE5LwniRAXcX7YKg88Yxn42psVU5Chbs+Ld9CO0rMFc54jzhd8ob05cx6LEo/fr\nI8OXz+GDCfLxyQC8mf/+i/kDeVDrp+S/FG9ye6rxr7kj7WmVGlQp0sf8T8fZrYDA\n+X3SRgB2vzpGwBylDk1n9KyuaFDyvcCAGYJp7YE2mNLhaRN/NIK4CA58QWQyYeUR\naqkZG6cDkXdW0ZX3RKLjJXj29bb5eZ8/R9m6Q7JQrFXoBuE/g6byvU4wJ265eZJJ\n8qupiBmWc+hvB5gxymp5NbdixHhbFQvPRoAu5xhHslv3RyYuS5Ksd/nMdyJtUmvL\nYAjGPAObAgMBAAECggEASuBtfHbF43Gcn2J025pkS7u7qpqd0mEtoG2pyS2Qg/bh\nkBQuAvR0GwSvm4bBTRd6MOKwC+8d6wWhk+UNe9Yl+gDdSNFx1Azsn3OcEk5YnoNB\nHIAZplgOnvFAeHneBE7EwxtGkAfxAv3cU8MxMgqm61gPHlAlXQrJ2jF8sP+Sd9Oo\n6xqkb8NzuPGK/1XE/bzsRowvkmUqcupQCT+y8xSs2XO3G19Y3+5PMi26JYUvY+iF\nk60dkqpqPljJqByI9AJg1d0nSnLycq7MwkIscWANLDqX57hyZ3LR37EXcL0wAnPi\nc+oIEVkLYzBoL/IA1Bhe3SQdrojScJfdwSjSEmv1LQKBgQDWbN231nNxahPTioRO\noSr4LPJXRvE2k7NSJNbYHNJ5AYeBzVi9H7GdpdT9RTslNRlvdevoyUBB5TmQk99w\nhTDdte/dIp2Lf5Zhn1TfM1Tk6PSq9Ue42L2YbaEP/Hii/CPUq6EvPJMjVj7YMPfN\n+RR83d0t9u6ZxcalTWz97kMLzwKBgQDQKbtUTqrOjgq0EA+xuGmtAOG/5g7uGQiD\nyI4xehqeTOlN465kd2bJLw/RPl8R4djoZT0YO7a4cFUhudg7hoFncMkn8Ys1Gzti\nd1DouOesQAVNuiU3z6ZR+qvzrxzHLhIjj+akqp+zbqiLiOkolwDpCES2zrrEJ/tq\nW/Y5TIACdQKBgQCuws/6U3iHiTNbiFvJUiYZW1iwtYtHNh5C5u+L+AG6yfpNWrXm\nfnxexpfPTKul6Z8vbua1NcF/c3n1UfAcXxGyweQbUWkiFvzT1+5udAHPB+bRp1Or\nXks4frF0vAr+m44AeVnHjBFIDbTuswpk/4spMhJgsg9JmR4MAAzC8XwHlQKBgQCs\npwBWA82N9qgQAwZRXGhh8spLFPCrMR4r16uAhAsR4y7ayI47jAE3uo3++iF2PoFe\n96E9uUFrJtilWXRsorov5o8hTyksCgMuP1JfRAX7izoa5tq5uMP1WNlIC6Tt21t2\nHYOqbk55T74BxbPFU8GQhqgfi8XCrnrME6xciAPghQKBgEn/sejUdOm2GFpXB0lF\n/m/75r/f96JkxXU2leH4aeSNBT7n8uohg/pVU22htUTG8+i8VkYNEKDR/YINKBCU\noN6ezjZ/UbPKoQtHHJg9QjfvkI36zRz2bzo6jpc8pxRvQZL+p0AQd3fTWCC1L7b/\n+7c28SR8dEAfN5nRzymwe6zE\n-----END PRIVATE KEY-----\n",
-  "client_email": "dbt-data-team-staging@swordhealth-staging.iam.gserviceaccount.com",
-  "client_id": "105177545819107969591",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-data-team-staging%40swordhealth-staging.iam.gserviceaccount.com"
-}
+
