@@ -3,8 +3,8 @@ dbt_training: # this needs to match the profile in your dbt_project.yml file
   outputs:
     dev:
       type: bigquery
-      method: service-account
-      keyfile: /usr/app/dbt_training/.dbt/swordhealth-staging.json # replace this with the full path to your keyfile
+      method: oauth
+#      keyfile: /usr/app/dbt_training/.dbt/swordhealth-staging.json # replace this with the full path to your keyfile
       project: swordhealth-staging # Replace this with your project id
       dataset: dbt_kvasquez_training_jaffle # Replace this with dbt_your_name, e.g. dbt_bilbo
       threads: 1

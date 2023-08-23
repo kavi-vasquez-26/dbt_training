@@ -53,3 +53,16 @@ models:
           - relationships:
               to: ref('stg_customers')
               field: customer_id
+
+  - name: stg_payments
+    description: Adding some wording for description here
+    columns:
+      - name: payment_id
+        tests:
+          - not_null
+          - unique
+      - name: payment_method
+        description: How the user purchased the item of choice.
+        accepted_values:
+          values: ['cash', 'credit_card', 'gift_card']
+
